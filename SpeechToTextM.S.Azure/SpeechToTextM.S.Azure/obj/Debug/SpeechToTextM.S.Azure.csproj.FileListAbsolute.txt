@@ -1,0 +1,6 @@
+c:\users\jefcowen\documents\visual studio 2017\Projects\SpeechToTextM.S.Azure\SpeechToTextM.S.Azure\bin\Debug\SpeechToTextM.S.Azure.exe.config
+c:\users\jefcowen\documents\visual studio 2017\Projects\SpeechToTextM.S.Azure\SpeechToTextM.S.Azure\bin\Debug\SpeechToTextM.S.Azure.exe
+c:\users\jefcowen\documents\visual studio 2017\Projects\SpeechToTextM.S.Azure\SpeechToTextM.S.Azure\bin\Debug\SpeechToTextM.S.Azure.pdb
+c:\users\jefcowen\documents\visual studio 2017\Projects\SpeechToTextM.S.Azure\SpeechToTextM.S.Azure\obj\Debug\SpeechToTextM.S.Azure.csprojResolveAssemblyReference.cache
+c:\users\jefcowen\documents\visual studio 2017\Projects\SpeechToTextM.S.Azure\SpeechToTextM.S.Azure\obj\Debug\SpeechToTextM.S.Azure.exe
+c:\users\jefcowen\documents\visual studio 2017\Projects\SpeechToTextM.S.Azure\SpeechToTextM.S.Azure\obj\Debug\SpeechToTextM.S.Azure.pdb
